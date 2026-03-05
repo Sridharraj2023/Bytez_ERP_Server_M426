@@ -16,9 +16,9 @@ Server runs on http://localhost:5000
 
 ## 🔑 Default Users
 
-- **Admin:** admin@bytez.com / admin123
-- **Manager:** manager@bytez.com / manager123
-- **Employee:** employee@bytez.com / employee123
+- **Admin:** admin@bytez.com / password123
+- **Manager:** manager@bytez.com / password123
+- **Employee:** employee@bytez.com / password123
 
 ## 🛠️ Tech Stack
 
